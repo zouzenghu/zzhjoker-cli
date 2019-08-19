@@ -1,12 +1,12 @@
 module.exports = {
   webpack: {
-    url: "https://github.com/zouzenghu/ES6-template",
-    downloadUrl: "https://github.com:zouzenghu/ES6-template#master",
+    url: "https://github.com/zouzenghu/npm-webpack-es6-template",
+    downloadUrl: "https://github.com:zouzenghu/npm-webpack-es6-template#master",
     description: "webpack——ES6配置"
   },
-  npmTypescript: {
+  TypescriptPackage: {
     url: "https://github.com/zouzenghu/npm-typescript-template",
     downloadUrl: "https://github.com:zouzenghu/npm-typescript-template#master",
-    description: "npm-typescript包基本配置"
+    description: "npm-typescript包配置"
   }
 };
