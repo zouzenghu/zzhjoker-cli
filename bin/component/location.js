@@ -10,8 +10,8 @@ module.exports = {
     description: 'npm-typescript包配置'
   },
   WebpackLibrary: {
-    url: 'https://github.com/zouzenghu/npm-typescript-template',
-    downloadUrl: 'https://github.com:zouzenghu/npm-typescript-template#master',
+    url: 'https://github.com/zouzenghu/npm-webpack-library',
+    downloadUrl: 'https://github.com:zouzenghu/npm-webpack-library#master',
     description: 'WebpackLibrary包配置'
   }
 }
